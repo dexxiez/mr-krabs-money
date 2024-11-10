@@ -4,6 +4,10 @@
   "description": "Mr. Crabs Money Utility",
   "public": true,
   "author": "Dexxiez",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dexxiez/mr-krabs-money.git"
+  },
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
